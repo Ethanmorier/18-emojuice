@@ -22,6 +22,10 @@ background: #ffffffCE;
 text-align: center;
 margin-bottom: 30px;
 }
+.slogan{
+  color: #57BB6B;
+  font-size: 20px;
+}
   display: block;
   max-width: 100%;
 }
