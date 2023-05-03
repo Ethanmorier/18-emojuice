@@ -31,6 +31,7 @@ margin-bottom: 30px;
   flex-direction: column;
   align-items: center;
 }
+
 .cta{
   display: flex;
   color: #ffffff;
@@ -39,6 +40,16 @@ margin-bottom: 30px;
   text-decoration: none;
   border-radius: 13px;
   justify-content: center
+}
+.cta-contact {
+  display: flex;
+  color: #57BB6B;
+  background: #ffffff;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 13px;
+  margin-top: 20px;
+}
   display: block;
   max-width: 100%;
 }
