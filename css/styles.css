@@ -83,6 +83,20 @@ margin-bottom: 30px;
   border-radius: 30px;
   box-shadow: 0px 0px 20px rgb(70, 70, 70);
 }
+.card-fraise {
+  color: #000000;
+  background: #F7A4B4;
+  padding: 40px;
+  margin: 10px 0;
+  border-radius: 5px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-end;
+  text-align: left;
+  border-radius: 30px;
+  box-shadow: 0px 0px 20px rgb(70, 70, 70);
+}
   display: block;
   max-width: 100%;
 }
