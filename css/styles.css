@@ -31,6 +31,14 @@ margin-bottom: 30px;
   flex-direction: column;
   align-items: center;
 }
+.cta{
+  display: flex;
+  color: #ffffff;
+  background: #57BB6B;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 13px;
+  justify-content: center
   display: block;
   max-width: 100%;
 }
