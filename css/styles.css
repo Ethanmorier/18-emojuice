@@ -26,6 +26,11 @@ margin-bottom: 30px;
   color: #57BB6B;
   font-size: 20px;
 }
+.cta-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
   display: block;
   max-width: 100%;
 }
