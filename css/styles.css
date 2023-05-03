@@ -137,7 +137,13 @@ div{
   flex-wrap: wrap;
   flex-direction: row;
 }
+.section {
+  padding: 40px;
+    text-align: center;
 }
+.section img{
   display: block;
   max-width: 100%;
+  max-width: 50%;
+  align-self: flex-end;
 }
