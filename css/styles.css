@@ -12,6 +12,16 @@ header{
   background-size: cover;
   padding: 40px;
   border-top: 5px solid #060E17;
+}
+
+.box-title {
+padding-left: 50px ;
+padding-right: 50px ;
+padding-top: 10px;
+background: #ffffffCE;
+text-align: center;
+margin-bottom: 30px;
+}
   display: block;
   max-width: 100%;
 }
