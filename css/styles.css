@@ -150,3 +150,11 @@ div{
 .footer h2 {
   color:#57BB6B ;
   font-family:'maven pro';
+}
+.footer p {
+  color: #57BB6B;
+}
+.footer{
+  background: #ffffff;
+}
+
