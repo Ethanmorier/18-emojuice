@@ -147,3 +147,6 @@ div{
   max-width: 50%;
   align-self: flex-end;
 }
+.footer h2 {
+  color:#57BB6B ;
+  font-family:'maven pro';
