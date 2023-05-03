@@ -124,6 +124,10 @@ h2{
 .section-light h2 {
   color: #000000;
   font-family:'maven pro';
+h3{
+  font-family: 'sriracha';
+  width: 100%;
+  font-size: 30px;
   display: block;
   max-width: 100%;
 }
