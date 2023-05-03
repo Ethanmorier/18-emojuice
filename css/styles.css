@@ -137,6 +137,7 @@ div{
   flex-wrap: wrap;
   flex-direction: row;
 }
+}
   display: block;
   max-width: 100%;
 }
