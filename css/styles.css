@@ -116,6 +116,12 @@ margin-bottom: 30px;
   box-shadow: 0px 0px 20px rgb(70, 70, 70);
 }
 
+.section-produit p{
+  opacity: 50%;
+}
+p{
+  font-family:'Quattrocento';
+}
 h2{
   color: #ffffff;
   font-family:'maven pro';
