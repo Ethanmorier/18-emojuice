@@ -124,10 +124,19 @@ h2{
 .section-light h2 {
   color: #000000;
   font-family:'maven pro';
+}
 h3{
   font-family: 'sriracha';
   width: 100%;
   font-size: 30px;
+}
+div{
+  display: flex;
+  margin: auto;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
   display: block;
   max-width: 100%;
 }
