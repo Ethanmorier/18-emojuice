@@ -165,4 +165,19 @@ footer img{
   margin-left: 75px;
   margin-right: 75px;
 }
+.cta-footer{
+  display: flex;
+  color: #ffffff;
+  background: #57BB6B;
+  padding: 10px 100px;
+  text-decoration: none;
+  border-radius: 13px;
+  margin: 15px;
+  
+}
+a{
+  color: #000000;
+  font-family:'Maven Pro';
+}
 
+Maven Pro
