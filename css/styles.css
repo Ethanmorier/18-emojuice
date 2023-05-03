@@ -115,7 +115,6 @@ margin-bottom: 30px;
   border-radius: 30px;
   box-shadow: 0px 0px 20px rgb(70, 70, 70);
 }
-
 .section-produit p{
   opacity: 50%;
 }
@@ -151,14 +150,14 @@ div{
   max-width: 50%;
   align-self: flex-end;
 }
-.footer h2 {
+footer h2 {
   color:#57BB6B ;
   font-family:'maven pro';
 }
-.footer p {
+footer p {
   color: #57BB6B;
 }
-.footer{
+footer{
   background: #ffffff;
 }
 
